@@ -304,9 +304,9 @@ export default function Home() {
       <footer className="footer">
         <div className="container">
           <p className="footer-copy">© 2026 Shubham Patil</p>
-          <p className="footer-built">
+          {/* <p className="footer-built">
             Built with ❤️ using HTML, CSS, JavaScript, React.Js
-          </p>
+          </p> */}
         </div>
       </footer>
     </>
