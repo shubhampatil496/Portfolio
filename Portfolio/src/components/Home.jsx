@@ -106,7 +106,7 @@ export default function Home() {
             </button>
           </div>
           <a
-            href="/resume.pdf"
+            href="/Shubham.pdf"
             download
             className="btn-hero btn-resume"
           >
