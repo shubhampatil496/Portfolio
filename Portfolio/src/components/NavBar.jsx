@@ -62,7 +62,7 @@ export default function NavBar() {
             </button>
           </li>
           <li>
-            <a href="/resume.pdf" download className="nav-resume">
+            <a href="/Shubham.pdf" download className="nav-resume">
               Resume
             </a>
           </li>
